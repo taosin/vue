@@ -21,13 +21,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
     <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/stdlib.png">
   </a>
 </p>
-  ,
-<p align="center">
-  <a href="https://www.bmqb.com/jobs" target="_blank">
-    <img width="220px" src="https://raw.githubusercontent.com/vuejs/cn.vuejs.org/master/themes/vue/source/images/bmqb.png">
-  </a>
-</p>
-  
+
 <!--special end-->
 
 <h2 align="center">Platinum via Patreon</h2>
@@ -38,7 +32,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
     <tr>
       <td align="center" valign="middle">
         <a href="https://www.bitsrc.io/?utm_source=vue&utm_medium=vue&utm_campaign=vue&utm_term=vue&utm_content=vue" target="_blank">
-          <img height="90px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bit.png">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bit-wide.png">
         </a>
       </td>
       <td align="center" valign="middle">
@@ -54,6 +48,13 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
       <td align="center" valign="middle">
         <a href="https://vehikl.com/" target="_blank">
           <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vehikl.png">
+        </a>
+      </td>
+    </tr><tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.nativescript.org/vue?utm_source=vue-js-org&utm_medium=website&utm_campaign=nativescript-awareness" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/nativescript.png">
         </a>
       </td>
     </tr><tr></tr>
@@ -173,6 +174,16 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/tidelift.png">
         </a>
       </td>
+      <td align="center" valign="middle">
+        <a href="https://webdock.io/en" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/webdock.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://syncfusion.com/products/vue" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/syncfusion.png">
+        </a>
+      </td>
     </tr><tr></tr>
   </tbody>
 </table>
@@ -236,7 +247,17 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
           <img width="148px" src="https://i.imgur.com/hQHW6TB.png">
         </a>
       </td>
-    </tr><tr></tr>
+      <td align="center" valign="middle">
+        <a href="https://www.earthlink.ro" target="_blank">
+          <img width="148px" src="https://i.imgur.com/qX0SNa7.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://polyglotengineer.com/derek.pollard" target="_blank">
+          <img width="148px" src="https://polyglotengineer.com/DP.png">
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 <!--bronze end-->
@@ -278,10 +299,9 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 
 <!--50 start-->
 - Wasim Khamlichi
-- errorrik 
+- errorrik
 - Alex Balashov
 - Konstantin Levinski
-- tjkoury 
 - Evan Leonardi
 - Ernest Sim
 - Blaise Laflamme
@@ -305,15 +325,12 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Kirk Lewis
 - Karol F
 - Miljan Aleksic
-- 叶解 
+- 叶解
 - Paul Straw
 - Jake Ingman
 - Barbara Liau
-- 4 
-- The Graphic Design School
-- Christian Griffith
+- 4
 - Jarek Tkaczyk
-- Andrew Davis
 - Sean MacIsaac
 - Xiaojie LI
 - David Hess
@@ -321,13 +338,13 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Dariusz Jastrzębski
 - Ivan Sieder
 - Matt Jones
-- Dave Chenell
 - Duncan J Kenzie
 - Mike Margerum
 - Guy Gavergun
-- Edithvale 
+- Edithvale
 - Intevation GmbH
 - Luiz Eduardo  Tanure Bacelar
+- Chengzhi Yin
 - Zoran Knezevic
 - James Simpson
 - Pascal Germain
@@ -346,7 +363,6 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Thong Yong Jun
 - Tai Shi Lgin
 - Bryan Gruneberg
-- Roman Kuba
 - Matias Verdier
 - Jamie McElwain
 - Vivekanandhan Natarajan
@@ -361,13 +377,10 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Brian Jorden
 - Cliff Hess
 - Joe Ray Gregory
-- Oskar Lindgren
 - RADD Creative
 - Rua Cura D'ars
 - Richard Simpson
-- Charles McKeever
 - Alok Pant
-- Sandro Das Neves
 - Jessie Hernandez
 - Eric Fong
 - Aparajita Fishman
@@ -381,17 +394,31 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Jere Sjöroos
 - Wakana Seki
 - David Ang
-- David Rowthorn
-- Dom 
+- Dom
 - Ben Hong
 - David Kaplan
 - John Cleveland
 - Jaeyoung Lee
-- Amor 
+- Amor
 - Tom Ootes
 - Andy Foster
 - Blake Campbell
-- David Nunn
+- Joe Cochran
+- Matt Sencenbaugh
+- The Commission Cafe, LLC.
+- Leon Seipp
+- Daniel Mattingley
+- HANDI PRIYONO
+- Zhenping WANG
+- Teon Ooi
+- Hannes Kochniß
+- Juan Bermudez
+- Seiji Komatsu
+- Alberto T. Payero Mota
+- Colt Borg
+- Luis F Rocha
+- Chris Calo
+- Milan Zivkovic
 <!--10 end-->
 
 <h2 align="center">Backers via OpenCollective</h2>
